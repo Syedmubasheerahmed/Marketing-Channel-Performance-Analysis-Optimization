@@ -1,4 +1,5 @@
 # Marketing-Channel-Performance-Analysis-Optimization
+<img width="4170" height="2955" alt="ab_test_analysis" src="https://github.com/user-attachments/assets/30258488-de53-48af-add4-27b29ff52d64" />
 A comprehensive statistical analysis project comparing two marketing channels (Channel A vs Channel B) using A/B testing methodology, hypothesis testing, and data visualization to drive data-driven budget allocation decisions.
 
 PROJECT OVERVIEW
